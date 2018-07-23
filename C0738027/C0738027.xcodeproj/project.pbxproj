@@ -12,6 +12,7 @@
 		1704F8A121065D18001F01D4 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1704F8A021065D18001F01D4 /* Product.swift */; };
 		1704F8A321065D26001F01D4 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1704F8A221065D26001F01D4 /* Order.swift */; };
 		1704F8A521065D39001F01D4 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1704F8A421065D39001F01D4 /* Utility.swift */; };
+		9B967F61210662D300499102 /* IDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B967F60210662D300499102 /* IDisplay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		1704F8A021065D18001F01D4 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		1704F8A221065D26001F01D4 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		1704F8A421065D39001F01D4 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		9B967F60210662D300499102 /* IDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IDisplay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				1704F8A021065D18001F01D4 /* Product.swift */,
 				1704F8A221065D26001F01D4 /* Order.swift */,
 				1704F8A421065D39001F01D4 /* Utility.swift */,
+				9B967F60210662D300499102 /* IDisplay.swift */,
 			);
 			path = C0738027;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			files = (
 				1704F8A521065D39001F01D4 /* Utility.swift in Sources */,
 				1704F89F21065CEE001F01D4 /* Manufacturer.swift in Sources */,
+				9B967F61210662D300499102 /* IDisplay.swift in Sources */,
 				1704F89821065C93001F01D4 /* main.swift in Sources */,
 				1704F8A321065D26001F01D4 /* Order.swift in Sources */,
 				1704F8A121065D18001F01D4 /* Product.swift in Sources */,
